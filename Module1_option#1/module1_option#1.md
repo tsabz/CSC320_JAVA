@@ -2,8 +2,8 @@
 
 ### Human Data program executed
 
-![photo](humandata_1.png)
-![photo](humandata_2.png)
+![photo](humandata_1.png =250x)
+![photo](humandata_2.png =250x)
 
 ### Psuedo and Source code
 
