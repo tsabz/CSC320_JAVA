@@ -2,5 +2,5 @@
 
 ### Human Data program executed
 
-![photo](Module1_option#1/humandata_1.png)
-![photo](Module1_option#1/humandata_2.png)
+![photo](./Module1_option#1/humandata_1.png)
+![photo](./Module1_option#1/humandata_2.png)
