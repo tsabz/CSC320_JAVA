@@ -1,5 +1,7 @@
 # Module 1 Option # 1
 
+- Option #1: List Individual's Name and Address Information
+
 ### Human Data program executed
 
 ![photo](humandata_1.png)
