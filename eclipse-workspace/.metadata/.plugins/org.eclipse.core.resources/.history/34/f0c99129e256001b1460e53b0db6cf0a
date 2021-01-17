@@ -1,0 +1,16 @@
+
+public class humandata {
+
+	public static void main(String[] args) {
+
+        String first_name = "Jay Z";
+//        String last_name = "Carter";
+//        String street_address = "123 5th ave";
+//        String city = "Brooklyn";
+//        int zip_code = 11205;
+
+        System.out.println("First name: " + first_name);
+
+	}
+
+}
